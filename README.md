@@ -1,0 +1,19 @@
+# Thorne
+
+Hello, I'm **Thorne** a.k.a. **ens0**, a thirty-something Renaissance woman with a diverse array of expertise and successes. Primary focuses are **coding & writing**. Always learning, always creating, always building. Dedicated to building a better, more inclusive world for all.
+
+Repositories split between this account and [@smolfarm](https://github.com/smolfarm). Languages of focus are Solidity, TypeScript, and C#.
+
+## Links
+
+* [ens0.me](https://ens0.me) (Personal Site)
+* [Twitter](https://twitter.com/existentialenso)
+
+## NFT Contracts
+
+Here's a sampling of NFT contracts I've written.
+
+* [Polymorphic Pride Flag](https://github.com/existentialenso/polymorphic-pride-contract) - swappable on-chain SVGs ([Etherscan](https://etherscan.io/address/0xa27b99e4df10bf3a9f28bcf9c83301a66035bc06))
+* [Yo Kitties](https://github.com/smolfarm/yo-kitties-contract) - Iron Chef Cat Cora pfp project ([Etherscan](https://etherscan.io/address/0xC303Ff7a410fB8cD27c203753088009630e2DDd4))
+* Wandering Witches - artistic pfp project ([Etherscan](https://etherscan.io/address/0x6d2bbdb4aa635370ef95025e26b764f3666c3566))
+* [Dastardly Ducks](https://github.com/ExistentialEnso/dasduk-contract) - 10k pfp, one of the first ERC721A contracts ([Etherscan](https://etherscan.io/address/0x5472896e283ebcb13924c659c9db594aa9dc05a4#code))
