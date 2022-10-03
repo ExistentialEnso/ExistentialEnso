@@ -17,3 +17,7 @@ Here's a sampling of NFT contracts I've written.
 * [Yo Kitties](https://github.com/smolfarm/yo-kitties-contract) - Iron Chef Cat Cora pfp project ([Etherscan](https://etherscan.io/address/0xC303Ff7a410fB8cD27c203753088009630e2DDd4))
 * [Wandering Witches](https://github.com/smolfarm/witch-contract) - artistic pfp project ([Etherscan](https://etherscan.io/address/0x6d2bbdb4aa635370ef95025e26b764f3666c3566))
 * [Dastardly Ducks](https://github.com/ExistentialEnso/dasduk-contract) - 10k pfp, one of the first ERC721A contracts ([Etherscan](https://etherscan.io/address/0x5472896e283ebcb13924c659c9db594aa9dc05a4#code))
+
+## Misc
+
+* [smol toker](https://github.com/smolfarm/smol-toker) - TypeScript NFT generator used for smol farm pfp projects
