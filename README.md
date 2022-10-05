@@ -4,7 +4,7 @@ Hello, I'm **Thorne** a.k.a. **ens0**, a thirty-something Renaissance woman with
 
 Repositories split between this account and [@smolfarm](https://github.com/smolfarm), my girlfriend's and my creative studio. Languages of focus are **Solidity, TypeScript, and C#.**
 
-Previously, I spent 3 years as a CTO of a Y Combinator company.
+Previously, I spent 3 years as a CTO of a Y Combinator company, CrowdMed, that helped patients whose doctors were stumped get answers.
 
 ## Links
 
@@ -20,6 +20,8 @@ Here's a sampling of NFT contracts I've written.
 * [Wandering Witches](https://github.com/smolfarm/witch-contract) - artistic pfp project ([Etherscan](https://etherscan.io/address/0x6d2bbdb4aa635370ef95025e26b764f3666c3566))
 * [Dastardly Ducks](https://github.com/ExistentialEnso/dasduk-contract) - 10k pfp, one of the first ERC721A contracts ([Etherscan](https://etherscan.io/address/0x5472896e283ebcb13924c659c9db594aa9dc05a4#code))
 
-## Misc
+## Misc.
 
-* [smol toker](https://github.com/smolfarm/smol-toker) - TypeScript NFT generator used for smol farm pfp projects
+Other projects of mine available on GitHub.
+
+* [smol toker](https://github.com/smolfarm/smol-toker) - TypeScript NFT generator used for smol farm pfp NFTs
