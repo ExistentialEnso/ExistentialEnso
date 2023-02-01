@@ -8,7 +8,7 @@ Previously, I spent 3 years as a CTO of a Y Combinator company, CrowdMed, that h
 
 ## Links
 
-* [ens0.me](https://ens0.me) (Personal Site)
+* [Personal Site - ens0.me](https://ens0.me)
 * [Twitter](https://twitter.com/existentialenso)
 
 ## NFT Contracts
