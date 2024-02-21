@@ -4,12 +4,12 @@ Hello, I'm **Thorne** a.k.a. **ens0**, a thirty-something Renaissance woman with
 
 Repositories split between this account and [@smolfarm](https://github.com/smolfarm), my girlfriend's and my creative studio. Languages of focus are **Solidity, TypeScript, and C#.**
 
-Previously, I spent 3 years as a CTO of a Y Combinator company, CrowdMed, that helped patients whose doctors were stumped get answers.
+Previously, I spent 3 years as a CTO of a Y Combinator company, CrowdMed, that helped patients whose doctors were stumped get answers. I like keeping my hands in the code, but I take pride in my leadership abilities.
 
 ## Links
 
 * [Personal Site - ens0.me](https://ens0.me)
-* [Twitter](https://twitter.com/existentialenso)
+* [X](https://twitter.com/existentialenso)
 
 ## NFT Contracts
 
