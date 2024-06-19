@@ -12,6 +12,13 @@ Previously, I spent 3 years as a CTO of a Y Combinator company, CrowdMed, that h
 * [X](https://x.com/existentialenso)
 * [Bluesky](https://bsky.app/profile/ens0.me)
 
+## Web Apps
+
+Web apps built in their entirety by me.
+
+* [smol3](https://smol3.com) - web3 portal
+* [smol quest](https://smol.quest) - game & achievement tracking tool
+
 ## NFT Contracts
 
 Here's a sampling of NFT contracts I've written.
